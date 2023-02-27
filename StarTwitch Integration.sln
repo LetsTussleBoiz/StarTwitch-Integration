@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarTwitch Integration", "StarTwitch Integration\StarTwitch Integration.csproj", "{CED49B70-F350-4AA8-97EE-E9F01FA946EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{AB6EE885-3ADA-455E-83DA-B4113BA0B5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED49B70-F350-4AA8-97EE-E9F01FA946EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED49B70-F350-4AA8-97EE-E9F01FA946EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED49B70-F350-4AA8-97EE-E9F01FA946EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED49B70-F350-4AA8-97EE-E9F01FA946EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5147A93-7FA7-4A2A-971F-74CF68727609}
+	EndGlobalSection
+EndGlobal

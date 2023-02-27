@@ -1,0 +1,9 @@
+﻿{
+    "Name": "StarTwitch Integration",
+    "Author": "Lulu Borealis",
+    "Version": "0.1.0",
+    "Description": "Integration with Twitch to do a variety of things!",
+    "UniqueID": "Borealis.StarTwitch",
+    "EntryDll": "StarTwitch.dll",
+    "MinimumApiVersion": "3.14.0"
+}

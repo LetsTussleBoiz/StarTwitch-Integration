@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<Nullable>enable</Nullable>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>StarTwitch_Integration</RootNamespace>
+    <AssemblyName>StarTwitch</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.0" />
+    <PackageReference Include="Pathoschild.Stardew.ModTranslationClassBuilder" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\" />
+    <Folder Include="docs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MailFrameworkMod">
+      <HintPath>references\MailFrameworkMod.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

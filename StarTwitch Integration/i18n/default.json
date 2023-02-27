@@ -1,0 +1,82 @@
+{
+  /*********
+    ** Main translations
+    *********/
+  // mod name shown in the menu
+  "mod-name": "StarTwitch Integration",
+
+  // tab names
+  "tabs.twitch": "Twitch",
+  "tabs.debug": "Debug",
+  "tabs.settings": "Settings",
+
+
+  /*********
+    ** Twitch tab
+    *********/
+  // Twitch
+  "twitch.title": "Twitch Settings",
+
+
+  /*********
+    ** Debug tab
+    *********/
+  // Debug
+  "debug.title": "Debug Menu",
+
+  // Monsters
+  "monster.title": "Monster Control",
+  "spawn.monster": "Spawn Monster",
+
+  // Hearts
+  "relationships.title": "Relationships",
+  "relationships.friends": "Friends",
+
+  // Weather
+  "weather.title": "Weather Tomorrow",
+  "weather.current": "Current",
+  "weather.sunny": "Sunny",
+  "weather.raining": "Raining",
+  "weather.lightning": "Lightning",
+  "weather.snowing": "Snowing",
+
+  // Chat
+  "chat.title": "Chat Settings",
+  "chat.speak": "Make Chat Speak",
+
+  // Drop
+  "drop.title": "Drop Item Settings",
+  "drop.item": "Drop Held Item",
+
+  // Use
+  "use.title": "Use Item Settings",
+  "use.item": "Use Held Item",
+
+  // Confuse
+  "confuse.title": "Confusion Settings",
+  "confuse.player": "Confuse Player",
+  "unconfuse.player": "Unconfuse Player",
+
+  // Lightning
+  "lightning.title": "Lightning Settings",
+  "lightning.strike": "Lightning Strike",
+
+  // Money
+  "money.title": "Money Settings",
+  "give.money": "Give Money",
+
+  // Buffs and Debuffs
+  "buffs.title": "Buff Settings",
+  "give.buff": "Give Buff",
+  "give.debuff": "Give Debuff",
+
+  // Letters
+  "letter.title": "Letter Settings",
+  "send.letter": "Send Letter",
+
+  /*********
+    ** Settings tab
+    *********/
+  // Settings
+  "controls.pressnewkey": "On Button Pressed"
+}
